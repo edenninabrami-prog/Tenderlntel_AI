@@ -1,0 +1,8 @@
+pandas
+openpyxl
+streamlit
+chromadb
+sentence-transformers
+scikit-learn
+tabulate
+tqdm
